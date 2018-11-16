@@ -17,7 +17,7 @@ http://sonoff/cm?cmnd=Power%20Off
 
 ```json
 {
-  "accessory": "SonoffTasmotaHTTP",
+  "accessory": "SonoffTHTasmotaHTTP",
   "name": "Sonoff",
   "hostname": "The hostname of the Sonoff device"
 }
@@ -27,7 +27,7 @@ http://sonoff/cm?cmnd=Power%20Off
 
 ```json
 {
-  "accessory": "SonoffTasmotaHTTP",
+  "accessory": "SonoffTHTasmotaHTTP",
   "name": "Sonoff",
   "relay": "2",
   "hostname": "The hostname of the Sonoff device"
@@ -38,7 +38,7 @@ http://sonoff/cm?cmnd=Power%20Off
 
 ```json
 {
-  "accessory": "SonoffTasmotaHTTP",
+  "accessory": "SonoffTHTasmotaHTTP",
   "name": "Sonoff",
   "password": "The password from the web interface",
   "hostname": "The hostname of the Sonoff device"
